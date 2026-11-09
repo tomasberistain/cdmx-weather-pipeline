@@ -1,4 +1,4 @@
-﻿# Evaluación Técnica | Data Engineer Jr | Enki
+﻿# Weather data pipeline for Mexico City: Open-Meteo API → pandas → SQLite
 
 
 Pipeline de extracción, limpieza y análisis de datos meteorológicos de la CDMX
