@@ -2,6 +2,11 @@ __pycache__/
 *.pyc
 *.pyo
 .DS_Store
-data/*.csv
-data/*.db
 .env
+
+# Datos generados por el pipeline
+data/*
+!data/.gitkeep
+
+# Archivos de bloqueo de LibreOffice
+.~lock.*
